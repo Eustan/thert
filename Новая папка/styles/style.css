@@ -5,3 +5,6 @@ body {
 ul li {
     display: inline;
 }
+#kukarachi{border: 2px solid red;
+width: 500px;
+height: 100vh ;}
